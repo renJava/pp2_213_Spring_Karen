@@ -2,7 +2,8 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
- * Склонируйте заготовку проекта по ссылке.
+ * Склонируйте заготовку проекта по ссылке:
+ * <a href="https://github.com/KataAcademy/PP_2_1_2_Spring_HelloWorld">Репа ПП-213</a>
  * Всего 3 класса и одна зависимость.
  * Класс App содержит метод main, который запускает Спринг при создании контекста. В контекст мы передаем класс
  * AppConfig, который помечен аннотацией @Configuration - так Спринг понимает, что это настроечный класс.
